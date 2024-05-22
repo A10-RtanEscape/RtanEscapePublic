@@ -41,6 +41,6 @@
 #### 게임화면
 ![image](https://github.com/A10-RtanEscape/RtanEscapePublic/assets/167046397/77644b67-c8da-4e6b-a902-885ad176c15c)
 
-#### 게임종
+#### 게임종료
 ![image](https://github.com/A10-RtanEscape/RtanEscapePublic/assets/167046397/df41cea7-5ea0-4106-9106-176e22dfcbf5)
 
